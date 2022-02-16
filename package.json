@@ -1,0 +1,25 @@
+{
+  "name": "group-6",
+  "version": "1.0.0",
+  "description": "project: CSAM2021S",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuldeep325/Group-6.git.git"
+  },
+  "keywords": [
+    "Group-6"
+  ],
+  "author": "kuldeep, sugam, sapna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuldeep325/Group-6.git/issues"
+  },
+  "homepage": "https://github.com/kuldeep325/Group-6.git#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

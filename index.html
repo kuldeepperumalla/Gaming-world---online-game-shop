@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gaming world</title>
+    <!-- fontawesome-->
+    <script defer src="./fontawesome-free-5.15.3-web/js/all.js"></script>
+    <!-- CSS -->
+    <link rel="stylesheet" href="./style.css">
+
+</head>
+
+<body>
+    <!-- nav -->
+    <nav class="navbar">
+        <!--login model btn -->
+        <a href="#login" id="button" class="login-button">
+            <p>LOGIN</p>
+        </a>
+        <a href="#account" id="account-name" class="account_name">
+            <p>Hello!,<b> <span class="userName"></span></b><span class="signoutbtn">
+
+                    <i class="fas fa-sign-out-alt"></i>
+                </span></p>
+        </a>
+        <div class="navbar-center">
+
+
+
+            <!-- end of login model btn -->
+            <span class="logo"><a href="#"> Gaming World </a></span>
+
+            <div class="cart-btn">
+                <span class="nav-icon">
+                    <i class="fas fa-cart-plus"></i>
+                </span>
+                <div class="cart-items">0</div>
+            </div>
+        </div>
+    </nav>
+    <!-- end of nav -->
+    <!-- hero image -->
+    <header id="home">
+        <div id="img1" class="hero slide fade">
+            <div class="banner">
+
+                <a href="#products-page">
+                    <button class="banner-btn">shop now </button>
+                </a>
+            </div>
+        </div>
+        <div id="img2" class="hero slide fade">
+            <div class="banner">
+
+                <a href="#products-page">
+                    <button class="banner-btn">shop now </button>
+                </a>
+            </div>
+        </div>
+        <div id="img3" class="hero slide fade">
+            <div class="banner">
+
+                <a href="#products-page">
+                    <button class="banner-btn">shop now </button>
+                </a>
+            </div>
+        </div>
+        <div id="img4" class="hero slide fade">
+            <div class="banner">
+
+                <a href="#products-page">
+                    <button class="banner-btn">shop now </button>
+                </a>
+            </div>
+        </div>
+        <div id="img5" class="hero slide fade">
+            <div class="banner">
+                <a href="#products-page">
+                    <button class="banner-btn">shop now </button>
+                </a>
+            </div>
+        </div>
+    </header>
+    <div class="dotsbox" style="text-align:center">
+        <span class="dot" onclick="currentSlide(1)"></span>
+        <span class="dot" onclick="currentSlide(2)"></span>
+        <span class="dot" onclick="currentSlide(3)"></span>
+        <span class="dot" onclick="currentSlide(4)"></span>
+        <span class="dot" onclick="currentSlide(5)"></span>
+    </div>
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+    <!-- end of hero image -->
+
+    <!-- Modal Section -->
+    <!-- login -->
+    <div id="login" class="login-modal">
+        <div class="center">
+            <div class="login-close">+</div>
+            <h1>Login</h1>
+            <form id="login-form">
+                <div class="txt_field">
+                    <input id="name2" type="text" placeholder="" value="" required>
+                    <span></span>
+                    <label>Username</label>
+                </div>
+                <div class="txt_field">
+                    <input id="pass2" type="password" placeholder="" value="" required>
+                    <span></span>
+                    <label>Password</label>
+                </div>
+                <div class="pass">Forgot Password?</div>
+                <div class="error">Invalid Input!! Try again.</div>
+                <input id="login_btn" type="submit" value="Login">
+                <div class="signup_link">
+                    Not a member? <a href="#">Signup</a>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- forgot pass modal -->
+    <div class="pass-modal">
+        <div class="center">
+            <div class="forgot-close">+</div>
+            <h1>Enter Your Email</h1>
+            <form id="forgotPassword">
+                <div class="txt_field">
+                    <input id="forgotPasswordEmail" type="text" placeholder="" value="" required>
+                    <span></span>
+                    <label>Email</label>
+
+                </div>
+                <p><span class="displayMsg"></span></p>
+                <div>
+                    <input id="submit_btn_forgot" type="submit" value="Submit">
+                </div>
+            </form>
+        </div>
+    </div>
+    <!-- signup modal -->
+    <!-- sign up modal -->
+    <div id="Signup" class="signup-modal">
+        <div class="center">
+            <div class="signup-close">+</div>
+            <h1 id="signupHead">Sign up</h1>
+            <form id="signup-form">
+
+                <div class="signup-error">
+
+                </div>
+                <div class="txt_field">
+                    <input id="email" type="text" placeholder="" value="" required>
+                    <label>Email</label>
+                </div>
+                <div class="txt_field">
+                    <input id="name1" type="text" placeholder="" value="" required>
+                    <label>Username</label>
+                </div>
+
+                <div class="txt_field">
+                    <input id="pass1" type="password" placeholder="" value="" required>
+                    <label>Password</label>
+                </div>
+                <div class="txt_field">
+                    <input id="confirmPass" type="password" placeholder="" value="" required>
+                    <label>Confirm Password</label>
+                </div>
+                <input id="signup_btn" type="submit" value="Signup">
+            </form>
+        </div>
+    </div>
+    <!-- Games Description -->
+    <!-- The Modal -->
+    <div id="modal-description" class="modal">
+
+        <!-- Modal content -->
+        <div class="modal-content">
+
+
+        </div>
+    </div>
+
+    </div>
+    <!--end of Modal Section -->
+    <!-- game products -->
+    <section id="products-page" class="products">
+        <div class="section-title">
+            <h2>game store</h2>
+        </div>
+        <div class="products-center">
+
+            <!-- json -->
+
+        </div>
+    </section>
+    <!--end of products  -->
+    <div class="cart-overlay">
+        <div class="cart">
+            <span class="close-cart">
+                <i class="fas fa-window-close"></i>
+            </span>
+            <h2>your cart</h2>
+            <div class="cart-content">
+                <!-- cart item -->
+                <!-- <div class="cart-item"> -->
+
+                <!-- </div> -->
+                <!-- end of cart item -->
+            </div>
+            <div class="cart-footer">
+                <h3>your total : $<span class="cart-total">0</span></h3>
+                <button class="clear-cart banner-btn">
+                    Purchase
+                </button>
+            </div>
+        </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="./main.js"></script>
+    <script src="./slider.js"></script>
+</body>
+
+</html>

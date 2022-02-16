@@ -1,0 +1,725 @@
+{
+    "items" :[
+        {
+            "sys":{"id": "1"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img1.jpg" } } },
+                "Title": "The Legend of Zelda",
+                "Price": 59.99,
+                "Release_date": "July 16, 2021",
+                "Genre": "Adventure",
+                "Game_file_size": "7.1 GB",
+                "Description": "Fly high with the Zelda & Loftwing amiibo™ figureWith her majestic Loftwing by her side, Zelda steps into her destiny alongside her childhood friend."
+            }
+        },
+        {
+            "sys":{"id": "2"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img2.jpg" } } },
+                "Title": "NBA 2K21",
+                "Price": 44.79,
+                "Release_date": "September 04, 2020",
+                "Genre": "Sports",
+                "Game_file_size": "40.9 GB",
+                "Description": "NBA 2K21 is the latest title in the world-renowned, best-selling NBA 2K series, delivering an industry-leading sports video game experience."            
+            } 
+        },
+        {
+            "sys":{"id": "3"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img3.jpg" } } },
+                "Title": "Fortnite",
+                "Price": 36.79,
+                "Release_date": "June 12, 2018",
+                "Genre": "Action",
+                "Game_file_size": "11.5 GB",
+                "Description": "Fight in a cosmic war in Fortnite Chapter 2 Season 7: Invasion. Alien forces have infiltrated the Island while Doctor Slone leads the IO forces against them. Jump into battle by taking up both side’s tech: abduct your foes in a flying Saucer, blast enemies with the Rail Gun, create your own Alien in the Battle Pass, and more. As the Season progresses and the war escalates, new weaponry will be deployed and the battlefield will be shaken up. The battle for the Island begins now."
+
+            }
+        },
+        {
+            "sys":{"id": "4"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img4.jpg" } } },
+                "Title": "Kirby Fighters",
+                "Price": 51.09,
+                "Release_date": "September 23, 2020",
+                "Genre": "Fighting",
+                "Game_file_size": "1.1 GB",
+                "Description": "Battle your way through exciting modes, new weaponry will be deployed and the battlefield will be shaken up."
+            }
+        },
+        {
+            "sys":{"id": "5"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img5.jpg" } } },
+                "Title": "Pokémon Home",
+                "Price": 48.23,
+                "Release_date": "February 11, 2020",
+                "Genre": "Fighting",
+                "Game_file_size": "921 MB",
+                "Description": "Pokémon™ HOME is a cloud service for the Nintendo Switch™ system and compatible mobile devices designed as a place where all Pokémon can gather. By linking the same Nintendo Account to both the Nintendo Switch version and mobile version of Pokémon HOME, you’ll be able to access the same Pokémon Boxes on both versions."
+
+            }
+        },
+        {
+            "sys":{"id": "6"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img6.jpg" } } },
+                "Title": "Luigi’s Mansion",
+                "Price": 59.99,
+                "Release_date": "October 31, 2019",
+                "Genre": "Adventure",
+                "Game_file_size": "7.4 GB",
+                "Description": "Luigi’s invited to the towering Last Resort hotel, but when Mario and friends go missing, our green-clad hero will have to conquer his fears to save them! Slam, blow away, and vacuum up ghosts with the all-new Poltergust G-00, and join forces with Gooigi to overcome the puzzling contraptions and mischievous boss on each themed floor."
+            }
+        },
+        {
+            "sys":{"id": "7"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img7.jpg" } } },
+                "Title": "Fire Emblem™: Three Houses",
+                "Price": 59.99,
+                "Release_date": "July 26, 2019",
+                "Genre": "Adventure",
+                "Game_file_size": "11.6 GB",
+                "Description": "War is coming to the continent of Fódlan. Here, order is maintained by the Church of Seiros, which hosts the prestigious Officer’s Academy within its headquarters. You are invited to teach one of its three mighty houses, each comprised of students brimming with personality and represented by a royal from one of three territories."
+            }
+        },
+        {
+            "sys":{"id": "8"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img8.jpg" } } },
+                "Title": "Dr. Mario World",
+                "Price": 34.80,
+                "Release_date": "July 10, 2019",
+                "Genre": "Sports",
+                "Game_file_size": "159 MB",
+                "Description": "Match capsules with viruses and watch them disappear! Simply match three objects of the same color vertically or horizontally to clear them."
+            }
+        },
+        {
+            "sys":{"id": "9"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img9.jpg" } } },
+                "Title": "Cadence of Hyrule",
+                "Price": 24.99,
+                "Release_date": "June 13, 2019",
+                "Genre": "Adventure",
+                "Game_file_size": "1.7 GB",
+                "Description": "In the latest rhythmic action-adventure from Brace Yourself Games, you can enjoy the gameplay of Crypt of the Necrodancer in the setting of The Legend of Zelda series."
+            }
+        },
+        {
+            "sys":{"id": "10"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img10.jpg" } } },
+                "Title": "Hazel Sky",
+                "Price": 12.99,
+                "Release_date": "June 23, 2019",
+                "Genre": "Action",
+                "Game_file_size": "1.0 GB",
+                "Description": "Sent to an island far from home in the flying city of Gideon, Shane must pass the trials and return as an Engineer or face banishment. Connected via radio, Shane and fellow trainee engineer, Erin strike up an illicit friendship."
+            }
+        },
+        {
+            "sys":{"id": "11"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img11.jpg" } } },
+                "Title": "Hazel Sky",
+                "Price": 12.99,
+                "Release_date": "June 23, 2019",
+                "Genre": "Action",
+                "Game_file_size": "1.0 GB",
+                "Description": "Sent to an island far from home in the flying city of Gideon, Shane must pass the trials and return as an Engineer or face banishment. Connected via radio, Shane and fellow trainee engineer, Erin strike up an illicit friendship."
+            }
+        },
+        {
+            "sys":{"id": "12"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img12.jpg" } } },
+                "Title": "DRAGON BALL Z: KAKAROT",
+                "Price": 32.99,
+                "Release_date": "September 24, 2021",
+                "Genre": "Action",
+                "Game_file_size": "2.5 GB",
+                "Description": "Relive the story of Goku and other Z Fighters in DRAGON BALL Z: KAKAROT! Beyond the epic battles, experience life in the DRAGON BALL Z world as you fight, fish, eat, and train with Goku, Gohan, Vegeta and others. Explore the new areas and adventures as you advance."
+            }
+        },
+        {
+            "sys":{"id": "13"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img13.jpg" } } },
+                "Title": "Squabble",
+                "Price": 14.99,
+                "Release_date": "September 18, 2021",
+                "Genre": "Action",
+                "Game_file_size": "511 MB",
+                "Description": "Attack your opponents or play defensively, use the environment to your advantage. Trap your opponents or just get rid of them in the old-fashioned way. Be mindful of your surrounding as the world around you changes and reveals its not-so-friendly face."
+            }
+        },
+        {
+            "sys":{"id": "14"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img14.jpg" } } },
+                "Title": "Colors Live",
+                "Price": 29.99,
+                "Release_date": "September 14, 2021",
+                "Genre": "Education",
+                "Game_file_size": "$29.99",
+                "Description": "The critically acclaimed painting game is back! Paint using multiple brushes and layers and share your masterpiece online. Enjoy the same ease of use and powerful painting tools that made Colors! 3D so popular. Now adding pressure-sensitive painting with the Colors SonarPen."
+            }
+        },
+        {
+            "sys":{"id": "15"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img15.jpg" } } },
+                "Title": "Sonic Colors: Ultimate",
+                "Price": 39.99,
+                "Release_date": "September 07, 2021",
+                "Genre": "Action",
+                "Game_file_size": "6.9 GB",
+                "Description": "Join Sonic in the high-speed adventure of a lifetime! The evil Dr. Eggman has built a gigantic interstellar amusement park bursting with incredible rides and colorful attractions – but he’s powering it with a captured alien race called Wisps. "
+            }
+        },
+        {
+            "sys":{"id": "16"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img16.jpg" } } },
+                "Title": "Big Rumble Boxing: Creed Champions",
+                "Price": 39.99,
+                "Release_date": "September 03, 2021",
+                "Genre": "Sports",
+                "Game_file_size": "6.7 GB",
+                "Description": "Are you ready to become a boxing champion? Step into the ring and show off your boxing skills in a knockout arcade experience. Fight as one of 20 iconic characters from the Creed and Rocky movies."
+            }
+        },
+        {
+            "sys":{"id": "17"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img17.jpg" } } },
+                "Title": "Weapon of Choice DX",
+                "Price": 5.99,
+                "Release_date": "September 02, 2021",
+                "Genre": "Action",
+                "Game_file_size": "441 MB",
+                "Description": "Weapon of Choice DX is a high-energy, run 'n' gun where each playable character is unique with their own special weapon and abilities! Blast insane aliens, find new player characters, and choose between branching paths!"
+            }
+        },
+        {
+            "sys":{"id": "18"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img18.jpg" } } },
+                "Title": "KeyWe",
+                "Price": 24.99,
+                "Release_date": "August 31, 2021",
+                "Genre": "Action",
+                "Game_file_size": "1.4 GB",
+                "Description": "Welcome to KeyWe, the cute and chaotic co-op postal puzzle game where the mail must flow, and it’s up to you to keep things running! Play as Jeff and Debra, two small kiwi birds and the newest hires at the Bungalow Basin Telepost Office. "
+            }
+        },
+        {
+            "sys":{"id": "19"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img19.jpg" } } },
+                "Title": "Spelunky 2",
+                "Price": 61.99,
+                "Release_date": "Summer 2021",
+                "Genre": "Action",
+                "Game_file_size": "253 MB",
+                "Description": "Meet the next generation of explorers as they find themselves on the Moon, searching for treasure and missing family. Spelunky 2 builds upon the unique, randomized challenges that made the original a classic, offering a huge adventure designed to satisfy players old and new."
+            }
+        },
+        {
+            "sys":{"id": "20"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img20.jpg" } } },
+                "Title": "Trash Sailors",
+                "Price": 12.99,
+                "Release_date": "August 30, 2021",
+                "Genre": "Action",
+                "Game_file_size": "1.0 GB",
+                "Description": "The world was flooded by a giant Trash Tsunami! Luckily for you, a lot of trash is floating around. Trash is your main resource and the most valuable thing in this world."
+            }
+        },
+        {
+            "sys":{"id": "21"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img21.jpg" } } },
+                "Title": "No More Heroes 3",
+                "Price": 59.99,
+                "Release_date": "August 27, 2021",
+                "Genre": "Action",
+                "Game_file_size": "2 GB",
+                "Description": "The evil Prince FU and his band of alien assassins are itching to conquer Earth, and the only thing standing in their way is Travis Touchdown and his crew. Armed with his trusty Beam Katana, new tech, and some killer wrestling moves,"
+            }
+        },
+        {
+            "sys":{"id": "22"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img22.jpg" } } },
+                "Title": "Have a Blast",
+                "Price": 14.39,
+                "Release_date": "August 26, 2021",
+                "Genre": "Action",
+                "Game_file_size": "70 MB",
+                "Description": "Have a Blast is a high energy, kinetic, multiplayer party game. Battle through the most ridiculously hazardous corners of the galaxy and use your surroundings to your advantage. Outmaneuver your frenemies and shatter them into colorful bits."
+            }
+        },
+        {
+            "sys":{"id": "23"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img23.jpg" } } },
+                "Title": "Green Phoenix",
+                "Price": 3.49,
+                "Release_date": "August 26, 2021",
+                "Genre": "Arcade",
+                "Game_file_size": "606 MB",
+                "Description": "Green Phoenix is an on-rails 3D space shooter mixed with a deep narrative experience that focuses on the concept of ego and the meaning of freedom."
+            }
+        },
+        {
+            "sys":{"id": "24"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img24.jpg" } } },
+                "Title": "Hoa",
+                "Price": 14.99,
+                "Release_date": "August 24, 2021",
+                "Genre": "Adventure",
+                "Game_file_size": "1.1 GB",
+                "Description": "Hoa is a beautiful puzzle-platforming game that features breathtaking hand-painted art, lovely music, and a peaceful, relaxing atmosphere. Experience the magic of nature and imagination as you play the main character, Hoa, on her journey through breathtaking environments back to where it all began."
+            }
+        },
+        {
+            "sys":{"id": "25"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img25.jpg" } } },
+                "Title": "King's Bounty II",
+                "Price": 59.99,
+                "Release_date": "August 24, 2021",
+                "Genre": "Arcade",
+                "Game_file_size": "8.7 GB",
+                "Description": "King’s Bounty II is the long-awaited sequel to the legendary King’s Bounty video games franchise, one of the most iconic representatives of the turn-based RPG genre. Expanding on this legacy with an entirely new epic story, fractions, enemies,"
+            }
+        },
+        {
+            "sys":{"id": "26"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img26.jpg" } } },
+                "Title": "Heart Chain Kitty",
+                "Price": 9.90,
+                "Release_date": "August 20, 2021",
+                "Genre": "Adventure",
+                "Game_file_size": "3.7 GB",
+                "Description": "A heart-shaped stranger has arrived on Kitty Island! And he brings news of his parents. Of course Kittey has to go on a journey to find them now. Deep below the world, Darkside awaits. And possibly a nightmare or two. But Kittey will be fine - he'll just have to find more of these mysterious hearts. Hearts are love, and love gives us strength."
+            }
+        },
+        {
+            "sys":{"id": "27"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img27.jpg" } } },
+                "Title": "Space Scavenger",
+                "Price": 12.99,
+                "Release_date": "August 20, 2021",
+                "Genre": "Adventure",
+                "Game_file_size": "601 MB",
+                "Description": "Action roguelike where you build and command your own spaceships. Battle enemies, explore planets and customize your ship on the fly. Make the best use of the quirky ship modules you find, ranging from slingshots to ion cannons, to try and avoid certain death."
+            }
+        },
+        {
+            "sys":{"id": "28"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img28.jpg" } } },
+                "Title": "Monster Harvest",
+                "Price": 19.99,
+                "Release_date": "August 19, 2021",
+                "Genre": "Adventure",
+                "Game_file_size": "774 MB",
+                "Description": "During your journey through Planimal Point you’ll discover strange Slimes which can mutate your crops in ways you would never have imagined! Depending on the season, the Slime or the crop you mutate, you’ll be able to create up to 72 different mutations! "
+            }
+        },
+        {
+            "sys":{"id": "29"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img29.jpg" } } },
+                "Title": "Mayhem Brawler",
+                "Price": 19.99,
+                "Release_date": "August 19, 2021",
+                "Genre": "Arcade",
+                "Game_file_size": "1.1 GB",
+                "Description": "With comic book style art and kick-ass soundtracks, it offers a unique experience that you can tackle solo or as co-op with friends while defining the next step in the story with your choices."
+            }
+        },
+        {
+            "sys":{"id": "30"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img30.jpg" } } },
+                "Title": "Swords & Souls: Neverseen",
+                "Price": 14.99,
+                "Release_date": "August 18, 2021",
+                "Genre": "Adventure",
+                "Game_file_size": "1.1 GB",
+                "Description": "From SoulGame Studio, creators of the wildly popular Swords & Souls, comes an all new, even bigger standalone adventure to an island far across the sea. In Swords & Souls: Neverseen you find yourself shipwrecked and caught up in a struggle between a dangerous"
+            }
+        },
+        {
+            "sys":{"id": "31"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img31.jpg" } } },
+                "Title": "Out of Line",
+                "Price": 11.69,
+                "Release_date": "August 18, 2021",
+                "Genre": "Adventure",
+                "Game_file_size": "1.8 GB",
+                "Description": "In Out of Line, you follow the adventures of San, in his quest to escape the Factory that was once his home. Dive into a story set in mysterious world, find and help new friends as you journey through this beautiful 2D platformer !"
+            }
+        },
+        {
+            "sys":{"id": "32"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img32.jpg" } } },
+                "Title": "Greak: Memories of Azur",
+                "Price": 19.99,
+                "Release_date": "August 17, 2021",
+                "Genre": "Action",
+                "Game_file_size": "1.6 GB",
+                "Description": "Greak: Memories of Azur is a side scrolling single-player game with hand-drawn animations. You will take the role of three siblings: Greak, Adara and Raydel to guide them through the lands of Azur. Alternate control between them and use their unique abilities to escape from the Urlag invasion."
+            }
+        },
+        {
+            "sys":{"id": "33"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img33.jpg" } } },
+                "Title": "Witch Spring 3 Re:Fine",
+                "Price": 39.99,
+                "Release_date": "August 13, 2021",
+                "Genre": "Adventure",
+                "Game_file_size": "1.3 GB",
+                "Description": "With Japanese voice actors, and text fully localized into English, the game is a stand-alone title in the Witch Spring Universe. It comes with new visuals and sound, very cute art style and loveable characters."
+            }
+        },
+        {
+            "sys":{"id": "34"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img34.jpg" } } },
+                "Title": "Fort Triumph",
+                "Price": 19.99,
+                "Release_date": " August 13, 2021",
+                "Genre": "Adventure",
+                "Game_file_size": "1.1 GB",
+                "Description": "Lead a band of heroes with different skill sets through a witty, parody fantasy plot. Missions with various objectives are waiting for you on tiled procedural maps—whether in story mode or skirmish, prepare yourself for a grand adventure."
+            }
+        },
+        {
+            "sys":{"id": "35"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img35.jpg" } } },
+                "Title": "Tetragon",
+                "Price": 14.99,
+                "Release_date": "August 12, 2020",
+                "Genre": "Action",
+                "Game_file_size": "676 MB",
+                "Description": "A vast mysterious universe of unique game mechanics, puzzles, magical mazes, and challenges! It’s a real challenge for those who enjoy the games in the vein of The Room, The Witness and The Talos Principle."
+            }
+        },
+        {
+            "sys":{"id": "36"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img36.jpg" } } },
+                "Title": "Black Book",
+                "Price": 24.99,
+                "Release_date": "August 10, 2020",
+                "Genre": "Adventure",
+                "Game_file_size": "1.6 GB",
+                "Description": "A fusion of card-based RPGs and Adventure games, “Black Book” is a haunting tale of a young sorceress, who gave her life to serve the dark forces. Dive into the cold, yet alluring world of Slavic folktales - and uncover the secrets that hide in the darkness."
+            }
+        },
+        {
+            "sys":{"id": "37"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img37.jpg" } } },
+                "Title": "Haven Park",
+                "Price": 8.99,
+                "Release_date": "August 05, 2021",
+                "Genre": "Adventure",
+                "Game_file_size": "291 MB",
+                "Description": "Be Flint, who is doing his very best to keep his grandma's park up and running and make it a place for the campers to enjoy. Learn the camper's wishes and build whatever their hearts desire to attract even more quirky characters and look forward to whimsical conversations and quests."
+            }
+        },
+        {
+            "sys":{"id": "38"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img38.jpg" } } },
+                "Title": "10 Second Ninja X",
+                "Price": 7.99,
+                "Release_date": "July 30, 2021",
+                "Genre": "Action",
+                "Game_file_size": "688 MB",
+                "Description": "Destroy all of Greatbeard's robots in each level in ten seconds or less. Be fast enough to get the coveted three star rating in each. Fight through 100 levels, explore Greatbeard's airship, discover secrets, climb the leaderboards and show everyone "
+            }
+        },
+        {
+            "sys":{"id": "39"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img39.jpg" } } },
+                "Title": "Papa's Quiz",
+                "Price": 9.99,
+                "Release_date": "July 30, 2021",
+                "Genre": "Puzzle",
+                "Game_file_size": "508 MB",
+                "Description": "Papa’s Quiz is a party game for 1-8 players. Use phones or tablets as controllers and compete in multiple question types, where the smartest and fastest player will be the last standing victor!"
+            }
+        },{
+            "sys":{"id": "40"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img40.jpg" } } },
+                "Title": "Alone With You",
+                "Price": 8.99,
+                "Release_date": "July 30, 2021",
+                "Genre": "Adventure",
+                "Game_file_size": "295 MB",
+                "Description": "You’re the last survivor of a doomed space colony, trying to escape a planet before it implodes around you. Equipped with a scanner, you’ll reveal clues, solve puzzles, and discover the fates of over two-dozen colonists and the secrets of their interwoven lives."
+            }
+        },
+        {
+            "sys":{"id": "41"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img41.jpg" } } },
+                "Title": "Super Squidlit",
+                "Price": 8.99,
+                "Release_date": "July 30, 2021",
+                "Genre": "Adventure",
+                "Game_file_size": "413 MB",
+                "Description": "Super Squidlit imitates the Game Boy™ Color's capabilities and limitations for a squishy adventure! The colorful world of Squishu and it's invertebrate inhabitants need your help! Play as Plip and your old foe, Skwit Skwot, as you set sail to banish a great evil."
+            }
+        },
+        {
+            "sys":{"id": "42"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img42.jpg" } } },
+                "Title": "Piczle Puzzle & Watch Collection",
+                "Price": 7.99,
+                "Release_date": "July 29, 2021",
+                "Genre": "Puzzle",
+                "Game_file_size": "650 MB",
+                "Description": "This is the Piczle Puzzle & Watch Collection, a love-letter to the days of LCD handheld gaming! Play one of three logic-puzzles designed to look like those pioneering handheld gaming devices of yore."
+            }
+        },
+        {
+            "sys":{"id": "43"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img43.jpg" } } },
+                "Title": "Paint the Town Red",
+                "Price": 19.99,
+                "Release_date": "June 29, 2021",
+                "Genre": "Action",
+                "Game_file_size": "2.6 GB",
+                "Description": "In the Scenario levels you'll need to use your wits, speed and anything you can get your hands on in epic bar fights, disco brawls, old west saloon rumbles and more."
+            }
+        },
+        {
+            "sys":{"id": "44"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img44.jpg" } } },
+                "Title": "Banners of Ruin",
+                "Price": 19.99,
+                "Release_date": "July 29, 2021",
+                "Genre": "Puzzle",
+                "Game_file_size": "651 MB",
+                "Description": "The Blackfoots have been dealt a mighty blow by the fearsome House Ender - you must infiltrate their defences and cut out the rot."
+            }
+        },
+        {
+            "sys":{"id": "45"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img45.jpg" } } },
+                "Title": "Skydrift Infinity",
+                "Price": 14.99,
+                "Release_date": "July 29, 2021",
+                "Genre": "Action",
+                "Game_file_size": "997 MB",
+                "Description": "During the various game modes you can partake in deathmatches and armed races as well as other armed competitions, using modern airplanes, which are tuned to the max, with extreme weapons. Your goal is simple: if you can't overtake them, shoot them down!"
+            }
+        },
+        {
+            "sys":{"id": "46"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img46.jpg" } } },
+                "Title": "Fuga: Melodies of Steel",
+                "Price": 39.99,
+                "Release_date": "July 28, 2021",
+                "Genre": "Puzzle",
+                "Game_file_size": "1.2 GB",
+                "Description": "One fateful night, a peaceful village is thrown into the flames of war. Determined to save their families, a group of children boards a giant tank and begins an offensive charge!"
+            }
+        },
+        {
+            "sys":{"id": "47"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img47.jpg" } } },
+                "Title": "US Navy Sea Conflict",
+                "Price": 4.99,
+                "Release_date": "July 24, 2021",
+                "Genre": "Action",
+                "Game_file_size": "67 MB",
+                "Description": "Join the elite pilots of the US NAVY and attack the ships threatening your fleet. From your aircraft carrier, hunt down enemy battleships and win the naval battle. You will play with modern warships and jet fighter in combats that enhance the player experience for better maneuvers against the best naval machines."
+            }
+        },
+        {
+            "sys":{"id": "48"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img48.jpg" } } },
+                "Title": "Driving School Sim",
+                "Price": 14.99,
+                "Release_date": "July 23, 2021",
+                "Genre": "Puzzle",
+                "Game_file_size": "2.6 GB",
+                "Description": "Do you love driving cars? Driving School Sim, the latest driving simulator will allow you to feel what driving a real car is! Driving School Sim allows you to get behind the wheel of the newest cars on the market!"
+            }
+        },
+        {
+            "sys":{"id": "49"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img49.jpg" } } },
+                "Title": "Super Hoops",
+                "Price": 10.99,
+                "Release_date": "July 22, 2021",
+                "Genre": "Puzzle",
+                "Game_file_size": "128 MB",
+                "Description": "Go for perfect by not missing a shot! or try for infinite hoops by landing the golden pole!"
+            }
+        },
+        {
+            "sys":{"id": "50"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img50.jpg" } } },
+                "Title": "Gaps by POWGI",
+                "Price": 17.99,
+                "Release_date": "July 22, 2021",
+                "Genre": "Puzzle",
+                "Game_file_size": "76 MB",
+                "Description": "These words have one letter missing. Deduce the correct letters to fill the gaps and spell a new word, but watch out for red herrings! There are 150 puzzles to solve - and 150 terrible jokes."
+            }
+        },
+        {
+            "sys":{"id": "51"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img51.jpg" } } },
+                "Title": "scribbled",
+                "Price": 21.99,
+                "Release_date": "July 17, 2021",
+                "Genre": "Puzzle",
+                "Game_file_size": "172 MB",
+                "Description": "A 100% handmade art, It was created with pencil and paper. Join this wonderful adventure in a world full of challenges and creatures. This game is made for all ages"
+            }
+        },
+        {
+            "sys":{"id": "52"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img52.jpg" } } },
+                "Title": "Zoo Dentist",
+                "Price": 14.99,
+                "Release_date": "July 16, 2021",
+                "Genre": "Puzzle",
+                "Game_file_size": "166 MB",
+                "Description": "So here we are to help these cute beings fix their smiles! Learn how to perform teeth fillings, cleaning, tooth extraction and everything else what makes ours smiles shine!"
+            }
+        },
+        {
+            "sys":{"id": "53"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img53.jpg" } } },
+                "Title": "Defend the Kingdom",
+                "Price": 44.99,
+                "Release_date": "July 15, 2021",
+                "Genre": "Puzzle",
+                "Game_file_size": "183 MB",
+                "Description": "Defend the kingdom is a classic tower defense game where you build up towers and upgrade them to defend one end point from evil creatures approaching from one or more lanes. Different towers have different pro s and cons and it is always a trade off which tower suits the best for each situation. Explore three biomes and 35 levels each have three difficulties. "
+            }
+        },
+        {
+            "sys":{"id": "54"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img54.jpg" } } },
+                "Title": "Jigsaw Puzzle",
+                "Price": 32.99,
+                "Release_date": "July 13, 2021",
+                "Genre": "Puzzle",
+                "Game_file_size": "1.8 GB",
+                "Description": "The journey starts with a girl opening the door to her bookstore in the corner of living room. It was the little witch who sell magic books. "
+            }
+        },
+        {
+            "sys":{"id": "55"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img55.jpg" } } },
+                "Title": "Crash Drive 3",
+                "Price": 19.99,
+                "Release_date": "July 08, 2021",
+                "Genre": "Racing",
+                "Game_file_size": "1.4 GB",
+                "Description": "Experience ridiculous fun in this cross-platform multiplayer, free-roaming game! Drive monster trucks, tanks and more amazing vehicles across a huge open world. Level up, play events, earn cash, unlock new cars and discover secrets.... Crash Drive is back!"
+            }
+        },
+        {
+            "sys":{"id": "56"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img56.jpg" } } },
+                "Title": "Tony Hawk's™ ",
+                "Price": 39.99,
+                "Release_date": "June 25, 2021",
+                "Genre": "Racing",
+                "Game_file_size": "12.2 GB",
+                "Description": "Play Tony Hawk’s™ Pro Skater™ & Tony Hawk’s™ Pro Skater™ 2 in one epic collection, rebuilt from the ground up in incredible HD. All the pro skaters, levels and tricks are back and fully-remastered, plus more."
+            }
+        },
+        {
+            "sys":{"id": "57"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img57.jpg" } } },
+                "Title": "Minute of Islands",
+                "Price": 15.99,
+                "Release_date": "June 13, 2021",
+                "Genre": "Puzzle",
+                "Game_file_size": "1.9 GB",
+                "Description": "Explore strange and wonderful islands and dark labyrinths below in this narrative puzzle platformer. Guide young mechanic Mo on her quest to repair a world on the brink of collapse. The powerful Omni Switch at your disposal may not be enough to fix the damage that hides beneath the surface."
+            }
+        },
+        {
+            "sys":{"id": "58"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img58.jpg" } } },
+                "Title": "Multilevel Parking Driver",
+                "Price": 57.79,
+                "Release_date": "June 11, 2021",
+                "Genre": "Racing",
+                "Game_file_size": "750 MB",
+                "Description": "Prepare for the ultimate driving and parking exercise! With elaborate, complex parking lots and a huge, detailed outdoor environment, the challenge is here to keep you engaged for a long time!"
+            }
+        },
+        {
+            "sys":{"id": "59"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img59.jpg" } } },
+                "Title": "Best Sniper Legacy",
+                "Price": 26.99,
+                "Release_date": "May 27, 2021",
+                "Genre": "Action",
+                "Game_file_size": "482 MB",
+                "Description": "A failed experiment has created monstrous creations that roam Earth’s post-apocalyptic wasteland. As an elite shooter, you must now hunt to survive. Complete missions to unlock powerful new weapons and become the ultimate sniper."
+            }
+        },
+        {
+            "sys":{"id": "60"},
+            "fields":{
+                "image": { "fields": { "file": { "url": "./images/img60.jpg" } } },
+                "Title": "Driving World: Aspen",
+                "Price": 11.99,
+                "Release_date": "May 21, 2021",
+                "Genre": "Racing",
+                "Game_file_size": "778 MB",
+                "Description": "Driving World: Aspen opens to you an authentic-looking, challenging location to drive around and prove your driving skills in. Start exploring it in your trusty SUV, getting the hang of navigating around the narrow, windy mountain roads. After a bit of practice you’ll be able to advance and try your luck in more demanding vehicles."
+            }
+        }
+    ]
+}
