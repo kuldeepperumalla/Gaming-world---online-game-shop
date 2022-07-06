@@ -22,7 +22,7 @@ function resetTimer() {
     clearInterval(timer);
     timer = setInterval(autoSlide, 8000);
 }
-
+//
 function imageSlide(n) {
 
     let i;
