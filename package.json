@@ -8,17 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kuldeep325/Group-6.git.git"
+    "url": "git+https://github.com/kuladeepperumalla"
   },
   "keywords": [
     "Group-6"
   ],
-  "author": "kuldeep, sugam, sapna",
+  "author": "kuladeep",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kuldeep325/Group-6.git/issues"
-  },
-  "homepage": "https://github.com/kuldeep325/Group-6.git#readme",
+  "homepage": "https://github.com/kuladeepperumalla",
   "dependencies": {
     "express": "^4.17.1"
   }
