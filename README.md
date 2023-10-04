@@ -29,26 +29,26 @@
 ****
 
 <p align="center">
-  <img src = "images/Gaming_world_HomeScreen.gif" height=420 width=1060>
+  <img src = "images/Gaming_world_HomeScreen.gif" height=480 width=1060>
 </p>
 
 <p align="center">
-  <img src = "images/login.gif" height=420 width=1060
+  <img src = "images/login.gif" height=480 width=1060
     >
 </p>
 
 <p align="center">
-  <img src = "images/signup.gif" height=420 width=1060
+  <img src = "images/signup.gif" height=480 width=1060
     >
 </p>
 
 <p align="center">
-  <img src = "images/cart feature.gif" height=420 width=1060
+  <img src = "images/cart feature.gif" height=480 width=1060
     >
 </p>
 
 <p align="center">
-  <img src = "images/home screen.gif" height=420 width=1060
+  <img src = "images/home screen.gif" height=480 width=1060
     >
 </p>
 
