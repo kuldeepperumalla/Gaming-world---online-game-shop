@@ -52,9 +52,14 @@
     >
 </p>
 
+<p align="center">
+  <img src = "images/mobile.gif" height=300 width=200
+    >
+</p>
+
 ## Features
 
-A few of the things you can do with Gameing world:
+A few of the things you can do with Gaming world:
 
 * 
 
