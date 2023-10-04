@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src = "images/mobile.gif" height=300 width=400
+  <img src = "images/mobile.gif" height=400 width=600
     >
 </p>
 
