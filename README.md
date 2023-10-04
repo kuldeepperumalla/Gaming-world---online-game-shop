@@ -37,17 +37,20 @@ This project is part of my proof of concept. It is built by using JavaScript cla
 A few of the things you can do with Gaming world:
 
 ****
-> Login
-<p align="center">
-  <img src = "images/login.gif" height=480 width=1060
-    >
-</p>
+
 
 > Signup
 <p align="center">
   <img src = "images/signup.gif" height=480 width=1060
     >
 </p>
+
+> Login
+<p align="center">
+  <img src = "images/login.gif" height=480 width=1060
+    >
+</p>
+
 
 > User Home screen
 <p align="center">
