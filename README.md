@@ -33,7 +33,22 @@
 </p>
 
 <p align="center">
-  <img src = "https://github.com/kuladeepperumalla/Gaming-world---online-game-shop/assets/43093952/6bea1c1c-23c5-4947-98be-a9cdf3ea1bb0" height=420 width=1060
+  <img src = "images/login.gif" height=420 width=1060
+    >
+</p>
+
+<p align="center">
+  <img src = "images/signup.gif" height=420 width=1060
+    >
+</p>
+
+<p align="center">
+  <img src = "images/cart feature.gif" height=420 width=1060
+    >
+</p>
+
+<p align="center">
+  <img src = "images/home screen.gif" height=420 width=1060
     >
 </p>
 
