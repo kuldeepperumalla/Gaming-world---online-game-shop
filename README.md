@@ -103,7 +103,7 @@ Start the server
 ---
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![JSON](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=json&logoColor=yellow)
+![JSON](https://img.shields.io/badge/JSON-%007FFF?style=for-the-badge&logo=json&logoColor=yellow)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
