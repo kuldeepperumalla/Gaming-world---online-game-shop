@@ -20,7 +20,9 @@ This project is part of my proof of concept. It is built by using JavaScript cla
 
 ## Introduction
 
-
+> Gaming World is an online game store for gaming enthusiasts.
+> - It has a beautiful landing page with auto slide of the latest games and a shop now button which takes to the game product cards
+> - All the product cards are fetched from a custom JSON file named games.json they are mapped and displayed using javascript template literals
 
 ****
 
