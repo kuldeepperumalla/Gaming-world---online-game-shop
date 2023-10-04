@@ -32,6 +32,11 @@
   <img src = "images/Gaming_world_HomeScreen.gif" height=420 width=1060>
 </p>
 
+<p align="center">
+  <img src = "(https://github.com/kuladeepperumalla/Gaming-world---online-game-shop/assets/43093952/6bea1c1c-23c5-4947-98be-a9cdf3ea1bb0)" height=420 width=1060
+    >
+</p>
+
 ## Features
 
 A few of the things you can do with Gameing world:
