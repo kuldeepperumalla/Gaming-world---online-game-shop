@@ -49,15 +49,15 @@ A few of the things you can do with Gaming world:
     >
 </p>
 
-> Add to cart
+> User Home screen
 <p align="center">
-  <img src = "images/cart feature.gif" height=480 width=1060
+  <img src = "images/home screen.gif" height=480 width=1060
     >
 </p>
 
-> Checkout
+> Add to cart
 <p align="center">
-  <img src = "images/home screen.gif" height=480 width=1060
+  <img src = "images/cart feature.gif" height=480 width=1060
     >
 </p>
 
