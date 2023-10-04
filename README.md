@@ -1,15 +1,10 @@
-<h1 align="center"> Gaming World </h1> <br>
-<p align="center">
-  <a href="https://kuladeepperumalla.github.io/Gaming-world---online-game-shop/">
-    <img alt="Gamingworld" title="Gamingworld" src="images/screenCapture.001.jpeg" >
-  </a>
+# Gaming World - Online game shop 
 
-</p>
-https://github-production-user-asset-6210df.s3.amazonaws.com/43093952/272667884-ecb09f2f-7753-4784-af5b-645bf8d93d1d.png
-<p align="center">
-  Online Game shop. Built with Vanilla Java script.
-</p>
+> eCommerce platform built with Vanilla Javascript and Sass, data stored in local storage, and data fetched from local db.json.
 
+<img src="images/screenCapture.001.jpeg">
+
+This project is part of my proof of concept. It is built by using JavaScript classes and local storage. See it in action at [Demo](https://kuladeepperumalla.github.io/Gaming-world---online-game-shop/)
 
 
 ## Table of Contents
