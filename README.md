@@ -21,8 +21,8 @@ This project is part of my proof of concept. It is built by using JavaScript cla
 ## Introduction
 
 > Gaming World is an online game store for gaming enthusiasts.
-> - It has a beautiful landing page with auto slide of the latest games and a shop now button which takes to the game product cards
-> - All the product cards are fetched from a custom JSON file named games.json they are mapped and displayed using javascript template literals
+- It has a beautiful landing page with auto slide of the latest games and a shop now button which takes to the game product cards
+- All the product cards are fetched from a custom JSON file named games.json they are mapped and displayed using javascript template literals.
 
 ****
 
@@ -30,44 +30,43 @@ This project is part of my proof of concept. It is built by using JavaScript cla
   <img src = "images/Gaming_world_HomeScreen.gif" height=480 width=1060>
 </p>
 
-<p align="center">
-  <img src = "images/login.gif" height=480 width=1060
-    >
-</p>
 
-<p align="center">
-  <img src = "images/signup.gif" height=480 width=1060
-    >
-</p>
-
-<p align="center">
-  <img src = "images/cart feature.gif" height=480 width=1060
-    >
-</p>
-
-<p align="center">
-  <img src = "images/home screen.gif" height=480 width=1060
-    >
-</p>
-
-<p align="center">
-  <img src = "images/mobile.gif" height=400 width=600
-    >
-</p>
 
 ## Features
 
 A few of the things you can do with Gaming world:
 
-* 
-
+****
+> Login
 <p align="center">
-  <img src = "" width=700>
+  <img src = "images/login.gif" height=480 width=1060
+    >
 </p>
 
+> Signup
 <p align="center">
-  <img src = "" width=700>
+  <img src = "images/signup.gif" height=480 width=1060
+    >
 </p>
+
+> Add to cart
+<p align="center">
+  <img src = "images/cart feature.gif" height=480 width=1060
+    >
+</p>
+
+> Checkout
+<p align="center">
+  <img src = "images/home screen.gif" height=480 width=1060
+    >
+</p>
+
+> Responsive layout
+<p align="center">
+  <img src = "images/mobile.gif" height=400 width=600
+    >
+</p>
+
 
 
 ## Build Process
