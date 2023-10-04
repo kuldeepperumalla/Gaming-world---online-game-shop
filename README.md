@@ -1,7 +1,7 @@
-<h1 align="center"> GitPoint </h1> <br>
+<h1 align="center"> Gaming World </h1> <br>
 <p align="center">
-  <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="GitPoint" src="[http://i.imgur.com/VShxJHs.png](https://images.unsplash.com/photo-1531390770335-d94a0dacd992?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2592&q=80)" width="450">
+  <a href="https://kuladeepperumalla.github.io/Gaming-world---online-game-shop/">
+    <img alt="Gamingworld" title="Gamingworld" src="https://images.unsplash.com/photo-1531390770335-d94a0dacd992?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2592&q=80" width="450">
   </a>
 </p>
 
