@@ -1,9 +1,9 @@
 <h1 align="center"> Gaming World </h1> <br>
 <p align="center">
   <a href="https://kuladeepperumalla.github.io/Gaming-world---online-game-shop/">
-    <img alt="Gamingworld" title="Gamingworld" src="https://github-production-user-asset-6210df.s3.amazonaws.com/43093952/272667884-ecb09f2f-7753-4784-af5b-645bf8d93d1d.png" >
+    <img alt="Gamingworld" title="Gamingworld" src="images/screenCapture.jpeg" >
   </a>
-  <img width="1512" alt="Screenshot 2023-10-02 at 12 04 28 PM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/43093952/272667884-ecb09f2f-7753-4784-af5b-645bf8d93d1d.png">
+
 </p>
 https://github-production-user-asset-6210df.s3.amazonaws.com/43093952/272667884-ecb09f2f-7753-4784-af5b-645bf8d93d1d.png
 <p align="center">
