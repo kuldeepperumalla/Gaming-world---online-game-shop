@@ -71,77 +71,34 @@ A few of the things you can do with Gaming world:
 
 ## Build Process
 
-## Usage
 
-- Create a MongoDB database and obtain your `MongoDB URI` - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register)
-- Create a PayPal account and obtain your `Client ID` - [PayPal Developer](https://developer.paypal.com/)
+## 💻 Run Locally
 
-### Env Variables
+Clone the project
 
-Rename the `.env.example` file to `.env` and add the following
-
-```
-NODE_ENV = development
-PORT = 5000
-MONGO_URI = your mongodb uri
-JWT_SECRET = 'abc123'
-PAYPAL_CLIENT_ID = your paypal client id
-PAGINATION_LIMIT = 8
+```bash
+  git clone https://github.com/kuladeepperumalla/Gaming-world---online-game-shop.git
 ```
 
-Change the JWT_SECRET and PAGINATION_LIMIT to what you want
+Go to the project directory
 
-### Install Dependencies (frontend & backend)
-
-```
-npm install
-cd frontend
-npm install
+```bash
+  cd Gaming-world---online-game-shop
 ```
 
-### Run
+Install dependencies
 
+```bash
+  npm install
 ```
 
-# Run frontend (:3000) & backend (:5000)
-npm run dev
+Start the server
 
-# Run backend only
-npm run server
+```bash
+  npm run start
 ```
 
-## Build & Deploy
 
-```
-# Create frontend prod build
-cd frontend
-npm run build
-```
-
-### Seed Database
-
-You can use the following commands to seed the database with some sample users and products as well as destroy all data
-
-```
-# Import data
-npm run data:import
-
-# Destroy data
-npm run data:destroy
-```
-
-```
-Sample User Logins
-
-admin@email.com (Admin)
-123456
-
-john@email.com (Customer)
-123456
-
-jane@email.com (Customer)
-123456
-```
 
 ---
 
