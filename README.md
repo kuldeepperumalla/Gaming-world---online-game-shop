@@ -1,7 +1,7 @@
 <h1 align="center"> Gaming World </h1> <br>
 <p align="center">
   <a href="https://kuladeepperumalla.github.io/Gaming-world---online-game-shop/">
-    <img alt="Gamingworld" title="Gamingworld" src="images/screenCapture.jpeg" >
+    <img alt="Gamingworld" title="Gamingworld" src="images/screenCapture.001.jpeg" >
   </a>
 
 </p>
