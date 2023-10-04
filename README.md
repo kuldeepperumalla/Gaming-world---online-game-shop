@@ -29,7 +29,7 @@
 ****
 
 <p align="center">
-  <img src = "images/Gaming_world_HomeScreen.gif" height=350 width=550>
+  <img src = "images/Gaming_world_HomeScreen.gif" height=780 width=1060>
 </p>
 
 ## Features
