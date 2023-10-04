@@ -1,139 +1,58 @@
+<h1 align="center"> GitPoint </h1> <br>
+<p align="center">
+  <a href="https://gitpoint.co/">
+    <img alt="GitPoint" title="GitPoint" src="[http://i.imgur.com/VShxJHs.png](https://images.unsplash.com/photo-1531390770335-d94a0dacd992?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2592&q=80)" width="450">
+  </a>
+</p>
 
-
----
-
-# Gaming World - Online Gaming shop 
-
-Title. 🚀
-
-## 🔗 Live Demo
-
-[Click For Live Demo]()
-
-## 💻 Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/
-```
-
-Go to the project directory
-
-```bash
-  
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-
-## 🔖 Features
-
-- Interactive sticky header button & links.
-- Beautiful and interactive landing page showcase with animations.
-  - Network nodes live motion background.
-  - Spring animated "Searchhub" text on hover.
-  - SVG Illustration animation on first render.
-  - A delayed animated attention grabbing button, which will guide towards the task section.
-  - SVG waves section divider for modern look and feel.
-- Task section with background inspired from modern websites.
-  - Modern & attractive form design.
-  - Form is interactive and change as we enter inputs.
-  - Form validations & errors.
-  - Select search criteria based on "Users" & "Organizations".
-  - Live API data fetching status updates for "Initial", "Success", "In Progress" & "No Results Found".
-- Stunning display component for rendering results.
-  - Results list in a form of beatiful cards.
-  - Each result card contains Avatar, Login & Button with a link to github profile.
-  - Blue border card for "Users" & Green border card for "Organizations".
-- Modern footer with material themed icons and text.
-  - Animated links on hover.
-  - Flat material & minimalistic themed icons.
-- Responsive UI
-  - Only supported for mobile devices at the moment.
-
-**Note:** Most of the links are dummy links at the moment.
-
-## 📸 Screenshots
-
-
-**Footer**
-
-**Smartphone Version**
-
-## 📌 Tasks Performed
-
-**Requirement Gathering & Analysis**
+<p align="center">
+  Online Game shop. Built with Vanilla Java script.
+</p>
 
 
 
-**Design**
+## Table of Contents
 
-
-
-**Development (Coding & Implementation)**
-
-
-
-**Testing**
-
-- Manual test each and every field using every possible input and values.
-- Add more validations according to possible scenarios.
-- Perform unit testing using jest & react testing library.
-
-**Deployment**
-
-
-## 📄 Form Fields & Validations
+- [Introduction](#introduction)
+- [Features](#features)
+- [Build Process](#build-process)
+- [Developer](#Developer)
 
 
 
 
 
-## 🚀 API Reference
-
-
-## ⚙️ Tech Stack
-
-**Development:** React, JavaScript, Redux Toolkit, React Router, Axios, Material UI
+## Introduction
 
 
 
-**Styling:** SASS, CSS
+****
 
-**Animations & Transitions:** Framer Motion, CSS Animations
+<p align="center">
+  <img src = "" width=350>
+</p>
 
-**Icons:** React Icons
+## Features
 
-**Testing:** Jest, React Testing Library
+A few of the things you can do with Gameing world:
 
-**Package Manager:** NPM
+* 
 
-**Deployment:** Vercel
+<p align="center">
+  <img src = "" width=700>
+</p>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<p align="center">
+  <img src = "" width=700>
+</p>
 
-## 👨🏽‍💻 Author
 
-- [@kuladeepperumalla](https://github.com/kuladeepperumalla)
+## Build Process
+
+- Follow the [Installation Guide](https://github.com/kuladeepperumalla) 
+
+
+## Developer
+
+This project is brought to you by  [Kuladeep Perumalla](https://github.com/kuladeepperumalla)).
+
