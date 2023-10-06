@@ -37,7 +37,9 @@ This project is part of my proof of concept. It is built by using JavaScript cla
 A few of the things you can do with Gaming world:
 
 ****
-
+```http
+  GET /api/items/${id}
+```
 
 > Signup
 <p align="center">
